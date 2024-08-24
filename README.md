@@ -2,7 +2,7 @@
 
 [![MasterHead](https://appsbd.com/wp-content/uploads/2021/09/fa382e00-1bd2-11eb-992b-34d211d11cc2.png)](https://github.com/Vanshika200003/DSA)
 
-
+## Overview
 Welcome to the Data Structures and Algorithms (DSA) repository! This repository contains C++ implementations for various data structures and algorithms, organized by day. The code includes fundamental concepts and practical problems designed to enhance your understanding and problem-solving skills in DSA.
 
 ## Table of Contents
